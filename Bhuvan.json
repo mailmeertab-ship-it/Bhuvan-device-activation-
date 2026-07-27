@@ -54,6 +54,18 @@
         "Allowoffline": true
     },
     {
+        "device_id": "085df6bb81dd8992",
+        "key": "OWAIS",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "d3a6cd185ea46e4c",
+        "key": "LALA",
+        "expirydate": "31-07-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "d3a6cd185ea46e4c",
         "key": "LALA",
         "expirydate": "31-07-2026",
